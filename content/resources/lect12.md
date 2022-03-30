@@ -5,6 +5,7 @@ description: Lecture notes on Chern classes of the tangent bundle; cohomological
   of tangent and cotangent bundles of (M,J), types; complex manifolds, Dolbeault cohomology.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-966-geometry-of-manifolds-spring-2007/8de7efaaa019aef8237177a82020050c_lect12.pdf
 file_type: application/pdf
+parent_uid: e88acdbc-e268-b193-ad1c-1139c68b5502
 resourcetype: Document
 title: lect12.pdf
 uid: 8de7efaa-a019-aef8-2371-77a82020050c
